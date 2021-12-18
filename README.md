@@ -1,7 +1,7 @@
 # DL model deployment using Flask and Docker
 Deploying a pre-trained Keras model with Flask and Docker.
 ## Flask:
-Here is how to start the Flask service:
+Start the Flask service:
 
 python3.8 app/app.py
 
